@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculo IMC</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container-principal">
+    <div id="container">
+      <div id="banner">
+        <input type="button" value="limpar" id="limpar" onclick="reset()">
+        <h1>Calcule SEU IMC</h1>
+        <div id="clear">
+          <img src="vassoura.png" id="vass">
+        </div>
+      </div>
+      <label for="altura" class="label">Altura:</label>
+      <input type="number" id="altura" class="inputs" placeholder="Altura em Metros">
+      <label for="peso" class="label">Peso:</label>
+      <input type="number" id="peso" class="inputs" placeholder="Peso em Kg">
+      <input type="button" id="verificar" value="verificar" onclick="verificar()">
+      <div id="resultado">
+        <p id="res">
+    
+        </p>
+      </div>
+    </div>
+    <div id="container02">
+      <div class="categoria" id="categoria01">
+        <h2>Baixo Peso</h2>
+      </div>
+      <div class="categoria" id="categoria02">
+        <h2>Normal</h2>
+      </div>
+      <div class="categoria" id="categoria03">
+        <h2>Sobrepeso</h2>
+      </div>
+      <div class="categoria" id="categoria04">
+        <h2>Obesidade</h2>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
