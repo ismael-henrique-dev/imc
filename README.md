@@ -25,7 +25,7 @@ Está preocupado com sua saúde? Então aproveite e faça o calculo do seu indic
 Clone o projeto
 
 ```bash
-  git clone https://github.com/ismael-henrique-dev/Grocery-Store.git
+  git clone https://github.com/ismael-henrique-dev/imc.git
 ```
 
 Entre no diretório do projeto
@@ -36,9 +36,7 @@ Entre no diretório do projeto
 
 Abra o arquivo `index.html` em qualquer navegador
 
-```bash
-  
-```
+
 
 
 ## 💻 Tecnologias Utilizadas
