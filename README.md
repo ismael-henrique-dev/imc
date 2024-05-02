@@ -34,10 +34,11 @@ Entre no diretório do projeto
   cd imc
 ```
 
+Copie o caminho do arquivo `index.html`
+
+<img height="350" src="/tutorial.png" />
+
 Abra o arquivo `index.html` em qualquer navegador
-
-
-
 
 ## 💻 Tecnologias Utilizadas
 - ![Badge HTML](https://img.shields.io/badge/HTML-%E2%9C%94-red?style=for-the-badge)
