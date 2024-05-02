@@ -40,6 +40,8 @@ Copie o caminho do arquivo `index.html`
 
 Abra o arquivo `index.html` em qualquer navegador
 
+<img src="/busca.png" />
+
 ## 💻 Tecnologias Utilizadas
 - ![Badge HTML](https://img.shields.io/badge/HTML-%E2%9C%94-red?style=for-the-badge)
 - ![Badge CSS](https://img.shields.io/badge/CSS-%E2%9C%94-blue?style=for-the-badge)
