@@ -9,15 +9,8 @@ Está preocupado com sua saúde? Então aproveite e faça o calculo do seu indic
 
 ## 📸 Screenshots
 <p align="center">
-  <img height="350" src="" />
-  <img height="350" src="" />
-  <img height="430" src="src/assets/emptycart.png" />
-</p>
-
-## 🎥 Preview
-
-<p align="center">
-  <img height="430" src="" />
+  <img height="350" src="/normal.png" />
+  <img height="350" src="/emUso.png" />
 </p>
 
 ## 🚀 Rodando localmente
